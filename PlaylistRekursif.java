@@ -6,7 +6,9 @@
  * ------------------------------------------------------------
  *  Anggota Kelompok:
  *  1. 2902830385 - Muhamad Dzikri Fauzan
- *  Kelas         : COSC6025036
+ *  2. 2902815320 - Wisma Bayu Saputra
+ *  3. 2902829723 - Naufal Nur Adrian
+
  *  Program       : PlaylistRekursif.java
  * ============================================================
  */
